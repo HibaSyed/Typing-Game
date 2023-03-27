@@ -1,0 +1,15 @@
+#inputbox {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+#word,
+#timer,
+#score {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 20px;
+}
